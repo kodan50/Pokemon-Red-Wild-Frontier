@@ -31,7 +31,7 @@ ENDC
 
 PrizeMenuMon2Entries:
 IF DEF(_RED)
-	db DRATINI
+	db PINSIR
 	db SCYTHER
 ENDC
 IF DEF(_BLUE)
