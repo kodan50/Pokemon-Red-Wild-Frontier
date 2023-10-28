@@ -4,7 +4,7 @@ IF DEF(_RED)
 	db CLEFAIRY,  8
 	db NIDORINA, 17
 
-	db DRATINI,  18
+	db PINSIR,   20
 	db SCYTHER,  25
 	db PORYGON,  26
 ENDC
