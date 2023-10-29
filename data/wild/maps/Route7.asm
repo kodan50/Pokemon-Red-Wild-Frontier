@@ -1,16 +1,16 @@
 Route7WildMons:
 	def_grass_wildmons 15 ; encounter rate
-	db 19, PIDGEY
+	db 24, PIDGEY
 IF DEF(_RED)
-	db 19, ODDISH
-	db 17, MANKEY
-	db 22, ODDISH
-	db 22, PIDGEY
-	db 18, MANKEY
-	db 18, GROWLITHE
-	db 20, GROWLITHE
-	db 19, MANKEY
-	db 20, MANKEY
+	db 24, ODDISH
+	db 22, MANKEY
+	db 28, VULPIX
+	db 28, PIDGEY
+	db 23, BELLSPROUT
+	db 23, GROWLITHE
+	db 26, GROWLITHE
+	db 24, MEOWTH
+	db 26, MANKEY
 ENDC
 IF DEF(_BLUE)
 	db 19, BELLSPROUT
