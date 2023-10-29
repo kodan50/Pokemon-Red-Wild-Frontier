@@ -1,8 +1,8 @@
 PrizeMonLevelDictionary:
 IF DEF(_RED)
-	db ABRA,      9
-	db CLEFAIRY,  8
-	db NIDORINA, 17
+	db EEVEE,     5
+	db OMANYTE,  15
+	db KABUTO,   15
 
 	db PINSIR,   20
 	db SCYTHER,  25
