@@ -8,9 +8,9 @@ _CeladonCityLittleGirlText::
 	done
 
 _CeladonCityGramps1Text::
-	text "Heheh! This GYM"
-	line "is great! It's"
-	cont "full of women!"
+	text "Gosh, this GYM "
+	line "is tough, It's"
+	cont "full of gurus!"
 	done
 
 _CeladonCityGirlText::
