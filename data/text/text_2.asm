@@ -575,10 +575,10 @@ _IndigoPlateauHQText::
 	done
 
 _RedBedroomSNESText::
-	text "<PLAYER> is"
-	line "playing the SNES!"
-	cont "...Okay!"
-	cont "It's time to go!"
+	text "It's broken"
+	line "beyond repair and"
+	cont "does not"
+	cont "turn on anymore."
 	done
 
 _Route15UpstairsBinocularsText::
