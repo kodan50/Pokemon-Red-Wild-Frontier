@@ -7,10 +7,10 @@ NoThanksText:
 	db "NO THANKS@"
 
 PrizeMenuMon1Entries:
-	db ABRA
-	db CLEFAIRY
+	db EEVEE
+	db OMANYTE
 IF DEF(_RED)
-	db NIDORINA
+	db KABUTO
 ENDC
 IF DEF(_BLUE)
 	db NIDORINO
@@ -19,14 +19,14 @@ ENDC
 
 PrizeMenuMon1Cost:
 IF DEF(_RED)
-	bcd2 180
-	bcd2 500
+	bcd2 3000
+	bcd2 5000
 ENDC
 IF DEF(_BLUE)
 	bcd2 120
 	bcd2 750
 ENDC
-	bcd2 1200
+	bcd2 5000
 	db "@"
 
 PrizeMenuMon2Entries:
