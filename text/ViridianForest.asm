@@ -87,12 +87,12 @@ _ViridianForestUseAntidoteSignText::
 	done
 
 _ViridianForestTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "  WARNING!  "
 
 	para "Rest stop closed"
 	line "for repairs. "
-	cont "Please be"
-	cont "patient!  "
+	cont "No Entry!"
+	cont "Stay safe!"
 	done
 
 _ViridianForestTrainerTips3Text::
