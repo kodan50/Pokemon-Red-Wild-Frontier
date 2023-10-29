@@ -1,26 +1,26 @@
 Route21WildMons:
 	def_grass_wildmons 25 ; encounter rate
-	db 21, RATTATA
-	db 23, PIDGEY
-	db 30, RATICATE
-	db 23, RATTATA
-	db 21, PIDGEY
-	db 30, PIDGEOTTO
-	db 32, PIDGEOTTO
-	db 28, TANGELA
-	db 30, TANGELA
-	db 32, TANGELA
+	db 33, RATTATA
+	db 36, PIDGEY
+	db 47, RATICATE
+	db 36, RATTATA
+	db 33, PIDGEY
+	db 47, PIDGEOTTO
+	db 50, PIDGEOTTO
+	db 44, TANGELA
+	db 47, TANGELA
+	db 50, TANGELA
 	end_grass_wildmons
 
 	def_water_wildmons 5 ; encounter rate
-	db  5, TENTACOOL
-	db 10, TENTACOOL
-	db 15, TENTACOOL
-	db  5, TENTACOOL
-	db 10, TENTACOOL
-	db 15, TENTACOOL
-	db 20, TENTACOOL
-	db 30, TENTACOOL
-	db 35, TENTACOOL
-	db 40, TENTACOOL
+	db  8, TENTACOOL
+	db 16, TENTACOOL
+	db 24, TENTACOOL
+	db  8, GOLDEEN
+	db 16, GOLDEEN
+	db 24, GOLDEEN
+	db  8, MAGIKARP
+	db 16, MAGICARP
+	db 24, TENTACRUEL
+	db 63, TENTACRUEL
 	end_water_wildmons
