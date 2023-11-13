@@ -13,7 +13,7 @@ CeladonHotel_Object:
 	def_bg_events
 
 	def_object_events
-	object_event  3,  1, SPRITE_GRANNY, STAY, DOWN, TEXT_CELADONHOTEL_GRANNY
+	object_event  6,  1, SPRITE_GRANNY, STAY, DOWN, TEXT_CELADONHOTEL_GRANNY
 	object_event  2,  4, SPRITE_BEAUTY, STAY, NONE, TEXT_CELADONHOTEL_BEAUTY
 	object_event  8,  4, SPRITE_SUPER_NERD, WALK, LEFT_RIGHT, TEXT_CELADONHOTEL_SUPER_NERD
 
