@@ -4,7 +4,7 @@ _CeladonMansionRoofHouseHikerText::
 	cont "of #MON in"
 	cont "your GAME BOY!"
 
-	para "Get together with"
-	line "your friends and"
-	cont "trade #MON!"
+	para "Please take care "
+	line "of my favorite  "
+	cont "#MON EEVEE!"
 	done
