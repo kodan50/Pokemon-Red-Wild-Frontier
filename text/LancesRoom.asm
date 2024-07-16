@@ -45,20 +45,20 @@ _LancesRoomLanceAfterBattleText::
 	line "#MON LEAGUE"
 	cont "champion!"
 
-	para "...Or, you would"
-	line "have been, but"
-	cont "you have one more"
-	cont "challenge ahead."
+	para "But there's one "
+	line "more tradition"
+	cont "to uphold for all"
+	cont "who dare to win!"
 
-	para "You have to face"
-	line "another trainer!"
-	cont "His name is..."
+	para "A challenger ran"
+	line "the Elite Four  "
+	cont "before you.   "
 
-	para "<RIVAL>!"
-	line "He beat the ELITE"
-	cont "FOUR before you!"
+	para "<RIVAL> "
+	line "has claimed the  "
+	cont "right to battle!"
 
-	para "He is the real"
-	line "#MON LEAGUE"
-	cont "champion!@"
+	para "Defeat him to "
+	line "finish this"
+	cont "gauntlet!@"
 	text_end
