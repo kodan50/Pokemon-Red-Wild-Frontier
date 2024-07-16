@@ -1,10 +1,10 @@
 _CeladonMansionRoofHouseHikerText::
-	text "I know everything"
-	line "about the world"
-	cont "of #MON in"
-	cont "your GAME BOY!"
+	text "One of my #MON   "
+	line "had a baby, can"
+	cont "you give  "
+	cont "it a new home?"
 
-	para "Please take care "
-	line "of my favorite  "
-	cont "#MON EEVEE!"
+	para "Please care for  "
+	line "this EEVEE, it's"
+	cont "so curious!"
 	done
