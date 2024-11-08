@@ -13,9 +13,9 @@ This mod was just for fun and shouldn't be considered terribly serious, but I wi
 
 Some changed dialogue. I never did like Lance's fakeout speech.  
 All pokemon can be obtained without glitches. I tried to make all the same pokemon catchable in blue and red, so their locations are the same by replacing duplicates in the wild pokemon lists.  
-Two trades were adjusted. One to get a Mew by trading a Dragonite, and one to fix the "Your Raichu has evolved!" bungle up. I opted to change the pokemon instead of the trade dialogue because the dialogue is used less.  
+Two trades were adjusted. One to get a Mew by trading a Pokémon that’s not easy to come by, and one to fix the "Your Raichu has evolved!" hiccup, even though I like the idea of everyone experiencing Pokemon in a different way.
 The four trade-only pokemon now evolve through level up instead.  
-All pokemon levels have been adjusted. Wild pokemon and trainer pokemon levels have been booted to slightly absurd amounts. I have no idea on the impact to balance yet. Good luck in the gauntlet!  
+All pokemon levels have been adjusted. Wild pokemon and trainer pokemon levels have been boosted to slightly absurd amounts. I have no idea on the impact to balance yet. Good luck in the gauntlet!  
 I hacked up Cinnabar island with a cleaver to address one of the Missingno glitches. Funny enough, that Missingno probably causes the least amount of damage, but whatever.  
 All trainers in the Pokemon Gym will need to be battled before you can battle the gym leader. I always felt it was strange that you can avoid most of them, so I changed it.  
 I made some visual tweaks to some of the maps. Some might be considered heresy, but I think if you are offended by some of the changes I made to the maps, you should go outside and touch grass, and not let a pet project from a stranger on the internet ruin your day.  
