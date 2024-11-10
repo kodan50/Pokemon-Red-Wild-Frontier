@@ -1,8 +1,8 @@
 _MrPsychicsHouseMrPsychicYouWantedThisText::
-	text "...Wait! Don't"
-	line "say a word!"
+	text "Do you want a "
+	line "free thing?"
 
-	para "You wanted this!"
+	para "My pack's full. "
 	prompt
 
 _MrPsychicsHouseMrPsychicReceivedTM29Text::
