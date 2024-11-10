@@ -39,6 +39,6 @@ _AgathaAfterBattleText::
 	done
 
 _AgathasRoomAgathaDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "A strange force "
+	line "seals the door."
 	done
