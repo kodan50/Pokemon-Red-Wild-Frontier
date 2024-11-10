@@ -27,8 +27,8 @@ _SSAnne2FRivalText::
 	para "Different kinds"
 	line "are everywhere!"
 
-	para "Crawl around in"
-	line "grassy areas!"
+	para "I even traded  "
+	line "a few, too!  "
 	done
 
 _SSAnne2FRivalDefeatedText::
