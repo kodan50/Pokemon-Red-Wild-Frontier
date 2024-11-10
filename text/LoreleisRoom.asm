@@ -37,6 +37,6 @@ _LoreleisRoomLoreleiAfterBattleText::
 	done
 
 _LoreleisRoomLoreleiDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "Door froze shut "
+	line "from the cold. "
 	done
