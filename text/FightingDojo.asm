@@ -96,7 +96,7 @@ _FightingDojoBlackbelt3AfterBattleText::
 _FightingDojoBlackbelt4BattleText::
 	text "Hoohah!"
 
-	para "You're trespassing"
+	para "You want to train "
 	line "in our FIGHTING"
 	cont "DOJO!"
 	done
