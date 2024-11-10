@@ -1,11 +1,11 @@
 _CinnabarLabFossilRoomScientist1Text::
 	text "Hiya!"
 
-	para "I am important"
+	para I am a humble "
 	line "doctor!"
 
-	para "I study here rare"
-	line "#MON fossils!"
+	para "I study ancient  "
+	line "#MON remails!"
 
 	para "You! Have you a"
 	line "fossil for me?"
@@ -32,7 +32,7 @@ _CinnabarLabFossilRoomScientist1FossilIsBackToLifeText::
 	para "It was @"
 	text_ram wStringBuffer
 	text_start
-	line "like I think!"
+	line "how awesome! "
 	prompt
 
 _Lab4Text_610ae::
@@ -55,8 +55,8 @@ _Lab4Text_610ae::
 	done
 
 _Lab4Text_610b3::
-	text "So! You hurry and"
-	line "give me that!"
+	text "Will you hand me "
+	line "the fossil?  "
 
 	para "<PLAYER> handed"
 	line "over @"
