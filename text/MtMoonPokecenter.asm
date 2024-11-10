@@ -17,30 +17,30 @@ _MtMoonPokecenterGentlemanText::
 	done
 
 _MtMoonPokecenterMagikarpSalesmanIGotADealText::
-	text "MAN: Hello, there!"
-	line "Have I got a deal"
-	cont "just for you!"
+	text "Hello, I am in way"
+	line "over my head with"
+	cont "this MAGIKARP"
 
-	para "I'll let you have"
-	line "a swell MAGIKARP"
-	cont "for just ¥500!"
-	cont "What do you say?"
+	para "I feel bad since "
+	line "it deserves love"
+	cont "Will you maybe"
+	cont "buy it for ¥500?"
 	done
 
 _MtMoonPokecenterMagikarpSalesmanNoText::
-	text "No? I'm only"
-	line "doing this as a"
-	cont "favor to you!"
+	text "Chat with me"
+	line "if you can help"
+	cont "me later on. "
 	done
 
 _MtMoonPokecenterMagikarpSalesmanNoMoneyText::
-	text "You'll need more"
-	line "money than that!"
+	text "I need the full "
+	line "amount, please! "
 	done
 
 _MtMoonPokecenterMagikarpSalesmanNoRefundsText::
-	text "MAN: Well, I don't"
-	line "give refunds!"
+	text "My old #MON seems "
+	line "to like you! "
 	done
 
 _MtMoonPokecenterClipboardText::
