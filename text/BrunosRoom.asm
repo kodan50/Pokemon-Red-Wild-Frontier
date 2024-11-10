@@ -32,6 +32,6 @@ _BrunoAfterBattleText::
 	done
 
 _BrunosRoomBrunoDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "Oops, looks like"
+	line "the door broke."
 	done
