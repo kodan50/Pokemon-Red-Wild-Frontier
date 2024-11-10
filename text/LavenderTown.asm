@@ -12,9 +12,9 @@ _LavenderTownLittleGirlHaHaGuessNotText::
 	text "Hahaha, I guess"
 	line "not."
 
-	para "That white hand"
-	line "on your shoulder,"
-	cont "it's not real."
+	para "Such a thing is"
+	line "just so ludicrous"
+	cont "to consider.  "
 	done
 
 _LavenderTownCooltrainerMText::
