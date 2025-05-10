@@ -1,10 +1,10 @@
-# Pokémon Smoke
+# Pokémon Red: Wild Frontier
 
-I am creating a simple mod called Pokemon Smoke.
+I am creating a simple mod called Pokemon Red: Wild Frontier.
 
 While it was designed only to mod Pokemon Red, it also builds a Pokemon Blue ROM, since I can't be asked to change the makefile to exclude it, but I have no idea how it plays, so YMMV.
 
-The name "Smoke" doesn't seem to be taken by any mods that I could find with my extensive 10 second Google search, and it matches the color of my flash cart.
+The name "Wild Frontier" doesn't seem to be taken by any mods that I could find with my extensive 10 second Google search. This change is in part because I obtained a bootleg Pokemon Red cart that I can reflash.
 
 This mod in particular was designed so it can still work natively with Pokemon Stadium, Pokemon Stadium 2, and trading with the original Gameboy games. I haven't any friends to test the trading with, my N64 is buried, and NRage Input Plugin doesn't seem to want to work with my computer, so who knows if it still works? This could all be a waste of time...
 
